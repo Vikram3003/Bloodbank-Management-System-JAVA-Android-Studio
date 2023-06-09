@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683256624443",
+    "project_id": "bloodbank-management-mcad",
+    "storage_bucket": "bloodbank-management-mcad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683256624443:android:384474dc500f276e4ff31e",
+        "android_client_info": {
+          "package_name": "com.android.iunoob.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683256624443-ql289vfml0ur4e21fj8nq18gs8bfrusp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Tp2v3yr5AWvCQC18enoUsuT0Yd3Dwl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683256624443-ql289vfml0ur4e21fj8nq18gs8bfrusp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
